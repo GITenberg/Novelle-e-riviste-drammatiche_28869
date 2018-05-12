@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '25664'
     url: http://www.gutenberg.org/2009/agents/25664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28869#Novelle-e-riviste-drammatiche
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2009-05-18'
 gutenberg_type: Text
